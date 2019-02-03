@@ -5,19 +5,19 @@ this is a label
 3rd
 
 ---
-*abhijeet
-*ankit
-*shyam
+*abhijeet  
+*ankit  
+*shyam  
 
 ---
 
-1.abhijeet
-2.shyam
-3.danish
+1.abhijeet  
+2.shyam  
+3.danish  
 
 *how is it going*
 
-'''
+```
 void main()
 {
 int i,fact=1;
