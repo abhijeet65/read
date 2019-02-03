@@ -1,4 +1,4 @@
-**abhijeet saraf**
+**Abhijeet Saraf**
 ===
 ***this is a label***  
 ******this is a label******
@@ -11,9 +11,9 @@
 
 ---
 
-1.abhijeet  
-2.shyam  
-3.danish  
+1. abhijeet  
+2. shyam  
+3. danish  
 
 *how is it going*
 
