@@ -27,4 +27,6 @@ fact = fact * i;
 printf("factorial is %d ",fact);
 }
 ```
+image is shown up here
 
+![Image description here](https://images.unsplash.com/photo-1548761208-b7896a6ff225?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80)
